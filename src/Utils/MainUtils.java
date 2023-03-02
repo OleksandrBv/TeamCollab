@@ -1,6 +1,8 @@
 package Utils;
 
 public class MainUtils {
-  //ZXCVXCV
+    public static void main(String[] args) {
+        System.out.println("ku");
+    }
 
 }
